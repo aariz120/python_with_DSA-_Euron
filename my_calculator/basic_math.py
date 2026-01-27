@@ -7,7 +7,7 @@ def substract(a,b):
     return a-b
 
 def multiply(a,b):
-    """this will gie multiplication of two numbers"""
+    """this will give multiplication of two numbers"""
     return a*b
 
 def divide(a,b):
