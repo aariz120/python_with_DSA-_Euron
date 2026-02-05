@@ -1,0 +1,30 @@
+my name is Aariz mobin
+i am debbuging my code
+my name is Aariz mobin
+2026-02-05 16:23:51,030 - mytestlogger - INFO - my name is Aariz mobin
+i am debbuging my code
+2026-02-05 16:23:51,034 - mytestlogger - DEBUG - i am debbuging my code
+value of a is {a} and value of b is {b}
+2026-02-05 16:37:14,174 - mytestlogger - INFO - value of a is {a} and value of b is {b}
+we are doing a calculation operation by doing of {a} and {b}
+2026-02-05 16:37:14,190 - mytestlogger - INFO - we are doing a calculation operation by doing of {a} and {b}
+it will return {a} + {b}
+2026-02-05 16:37:14,197 - mytestlogger - INFO - it will return {a} + {b}
+value of a is {a} and value of b is {b}
+2026-02-05 16:38:38,746 - mytestlogger - INFO - value of a is {a} and value of b is {b}
+we are doing a calculation operation by doing of {a} and {b}
+2026-02-05 16:38:38,751 - mytestlogger - INFO - we are doing a calculation operation by doing of {a} and {b}
+it will return {a} + {b}
+2026-02-05 16:38:38,757 - mytestlogger - INFO - it will return {a} + {b}
+value of a is {a} and value of b is {b}
+2026-02-05 16:38:42,208 - mytestlogger - INFO - value of a is {a} and value of b is {b}
+we are doing a calculation operation by doing of {a} and {b}
+2026-02-05 16:38:42,213 - mytestlogger - INFO - we are doing a calculation operation by doing of {a} and {b}
+it will return {a} + {b}
+2026-02-05 16:38:42,218 - mytestlogger - INFO - it will return {a} + {b}
+value of a is {a} and value of b is {b}
+2026-02-05 16:38:47,048 - mytestlogger - INFO - value of a is {a} and value of b is {b}
+we are doing a calculation operation by doing of {a} and {b}
+2026-02-05 16:38:47,055 - mytestlogger - INFO - we are doing a calculation operation by doing of {a} and {b}
+it will return {a} + {b}
+2026-02-05 16:38:47,061 - mytestlogger - INFO - it will return {a} + {b}
