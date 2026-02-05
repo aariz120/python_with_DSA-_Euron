@@ -3,3 +3,24 @@ INFO:root:this is an info message
 WARNING:root:this is warning message
 ERROR:root:this is an error message
 CRITICAL:root:this is a critical message
+INFO:mytestlogger:my name is sudhanshu
+INFO:mytestlogger:my name is Aariz mobin
+DEBUG:mytestlogger:i am debbuging my code
+INFO:mytestlogger:my name is Aariz mobin
+DEBUG:mytestlogger:i am debbuging my code
+INFO:mytestlogger:my name is Aariz mobin
+DEBUG:mytestlogger:i am debbuging my code
+INFO:mytestlogger:my name is Aariz mobin
+DEBUG:mytestlogger:i am debbuging my code
+INFO:mytestlogger:value of a is {a} and value of b is {b}
+INFO:mytestlogger:we are doing a calculation operation by doing of {a} and {b}
+INFO:mytestlogger:it will return {a} + {b}
+INFO:mytestlogger:value of a is {a} and value of b is {b}
+INFO:mytestlogger:we are doing a calculation operation by doing of {a} and {b}
+INFO:mytestlogger:it will return {a} + {b}
+INFO:mytestlogger:value of a is {a} and value of b is {b}
+INFO:mytestlogger:we are doing a calculation operation by doing of {a} and {b}
+INFO:mytestlogger:it will return {a} + {b}
+INFO:mytestlogger:value of a is {a} and value of b is {b}
+INFO:mytestlogger:we are doing a calculation operation by doing of {a} and {b}
+INFO:mytestlogger:it will return {a} + {b}
